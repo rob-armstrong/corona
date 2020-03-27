@@ -1,2 +1,2 @@
 # corona
-Simplistic Covid19 analysis
+Simplistic Covid19 analyses
